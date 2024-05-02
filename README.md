@@ -1,3 +1,3 @@
-# portfolio website
+# Portfolio Website
 
 My version of a portfolio website.
